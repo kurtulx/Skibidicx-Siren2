@@ -7,7 +7,7 @@ workers_dev = true
 
 routes = [
 
-  { pattern = "siren1.skibidicx.web.id", custom_domain = true }
+  { pattern = "siren2.skibidicx.web.id", custom_domain = true }
   ]
 
 [[kv_namespaces]]
